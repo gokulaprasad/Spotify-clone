@@ -1,0 +1,171 @@
+.left-section
+{
+    position: fixed;
+    
+    top: 0;
+    left: 0;
+    width: 300px;
+}
+.home-text
+{
+    position: absolute;
+    color: white;
+    top:16px;
+    left: 73px;
+}
+.home-icon
+{
+    position: absolute;
+    width: 27px;
+    top:25px;
+    left: 28px;
+}
+.search-icon
+{
+    position: absolute;
+    width: 27px;
+    top:75px;
+    left:28px ;
+}
+.search-text
+{
+    position: absolute;
+    color: white;
+    top: 63px;
+    left: 73px;
+}
+.home
+{
+    width: 300px;
+    height: 115px;
+    background-color: rgb(20, 20, 20);
+    margin: 8px 2px 2px 2px;
+    border-radius: 2px;
+    
+}
+.your-library
+{
+    width: 300px;
+    height: 800px;
+    background-color: rgb(20,20,20);
+    border-radius: 5px;
+    margin-top:8px ;
+}
+.library-text
+{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    
+}
+.menu
+{
+    width: 25px;
+    position: absolute;
+    top: 145px;
+    left: 28px;
+}
+.library-text
+{
+    position: absolute;
+    left: 73px;
+    top:134px;
+}
+.add
+{
+    position: absolute;
+    color: gray;
+    font-size: 25px;
+    right: 68px;
+    top: 115px;
+}
+.arrow
+{
+    color:gray;
+    font-size: 22px;
+    position: absolute;
+    top:122px;
+    right: 30px;
+}
+.playlist-button,.Artist,.Album
+{
+    position: absolute;
+    background-color: rgb(50, 50, 50);
+    width: 50px;
+    height: 20px;
+    border: none;
+    top:200px;
+    color: white;
+    border-radius: 15px;
+    font-size: 13px;
+    height: 28px;
+    
+}
+.playlist-button
+{    
+    left: 20px;
+    width: 70px;    
+}
+.Artist
+{
+    left: 100px;
+    width: 55px;
+}
+.Album
+{
+    right:60px;
+    width: 75px;
+}
+.search-2
+{
+    position: absolute;
+    color: white;
+    width: 20px;
+    height: 20px;
+    top: 245px;
+    left:20px;
+    
+}
+.Recents
+{
+    position: absolute;
+    color: gray;
+    top:230px;
+    right: 60px;
+    font-size: 15px;
+    
+}
+.menu-song-bar
+{
+    
+    height: 50px;
+    width: 290px;
+    display: flex;
+    position: absolute;
+    top:280px;
+    border-radius: 5px;
+    margin-left: 15px;
+    
+}
+.liked
+{
+    position: absolute;
+    padding-left: 15px;
+    color: white;
+    top: -8px;
+    left: 50px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu-description
+{
+    position: absolute;
+    top: 15px;
+    left: 65px;
+    color: rgb(142, 139, 139);
+    font-size: 14px;
+}
+.menu-liked
+{
+    border-radius: 5px;
+}

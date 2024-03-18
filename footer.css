@@ -1,0 +1,170 @@
+.footer-section
+{
+    position:fixed;
+    height: 85px;
+    width: 100%;
+    background-color:rgb(0, 0, 0);
+    bottom: 0;
+}
+.thumbnail-pic
+{
+    height: 60px;
+    width: 60px;
+    margin-left: 12px;
+    margin-top: 15px;
+    border-radius: 6px;
+}
+.footer-title
+{
+    color: white;
+    position: absolute;
+    top: 10px;
+    left:80px;
+    z-index: 50;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-description
+{
+    color: rgb(180, 179, 179);
+    position: absolute;
+    top: 37px;
+    left:80px;
+    z-index: 60;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+
+}
+.footer-pic
+{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.like
+{
+    width: 20px;
+    position: absolute;
+    top: 30px;
+    left: 290px;
+}
+
+.shuffle
+{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 23px;
+    left: 612px;
+}
+.previous
+{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 16px;
+    left: 650px;
+    
+    
+}
+.play
+{
+    position: absolute;
+    top: 15px;
+    width: 35px;
+    height: 35px;
+    left:700px;
+}
+.next
+{
+    position: absolute;
+    top: 16px;
+    width: 30px;
+    height: 30px;
+    left: 750px;
+}
+.loop
+{
+    position: absolute;
+    top: 20px;
+    width: 20px;
+    height: 20px;
+    left: 795px;
+}
+.time-bar
+{
+    position: absolute;
+    top: 48px;
+    width: 505px;
+    height: 30px;
+    left: 462px;
+}
+.start
+{
+    position: absolute;
+    top: 44px;
+    color: grey;
+    left: 445px;
+    font-size: 12px;
+    
+}
+.end
+{
+    position: absolute;
+    top: 44px;
+    color: grey;
+    left: 957px;
+    font-size: 12px;
+}
+.playing
+{
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    top: 20px;
+    right:245px;
+}
+
+.lyrics
+{
+    width: 33px;
+    height: 33px;
+    position: absolute;
+    top: 24px;
+    right:210px;
+}
+.queue
+{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 18px;
+    right: 172px;
+}
+.device
+{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 18px;
+    right: 145px;
+}
+.volume
+{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 25px;
+    right: 118px;
+    
+}
+.volume-bar
+{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    
+}
